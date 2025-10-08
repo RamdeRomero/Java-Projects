@@ -1,0 +1,2 @@
+GoldenSectionSearch.GoldenSectionSearch
+net.finmath.optimizer.GoldenSectionSearch
